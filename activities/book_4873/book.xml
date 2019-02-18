@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="55" moduleid="4873" modulename="book" contextid="14180">
+  <book id="55">
+    <name>Principle 2: Physical processes on Earth are the result of energy flow through the Earth system</name>
+    <intro>&lt;p&gt;none&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1433712289</timecreated>
+    <timemodified>1433712289</timemodified>
+    <chapters>
+      <chapter id="447">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Principle 2: Physical processes on Earth are the result of energy flow through the Earth system</title>
+        <content>&lt;h1 class="Subhead"&gt;Principle 2: Physical processes on Earth are the result of energy flow through the Earth system.&lt;/h1&gt;
+&lt;p&gt;&lt;img width="150" height="150" style="width: 142px; height: 140px; margin-right: 20px; margin-left: 20px; float: right;" alt="iconic image for principle 2, represented by a sun" src="@@PLUGINFILE@@/icon_p2.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;This principle explores the role of energy as the driver for all of Earth’s processes. Earth’s energy comes from a few sources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;b&gt;sun&lt;/b&gt;, which heats the earth and is the source for solar, bio, wind, wave, and hydro power; it is also the original source for fossil fuels, which are comprised of old bioenergy that has been compressed and heated over many millions of years&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;b&gt;moon&lt;/b&gt;, whose gravitational forces creates tides which &lt;br /&gt;can then in turn be harnessed through &lt;a href="http://energy.gov/articles/energy-department-releases-new-energy-101-video-ocean-power"&gt;tidal energy&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;b&gt;earth&lt;/b&gt;, whose minerals give us nuclear fuels and whose radioactive decay below ground heats the Earth’s interior, providing geothermal energy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use Principle 2’s Fundamental Concepts on the next page to build your understanding of the concepts and information included in each principle. You can use the Fundamental Concepts to inform your instruction related to this principle.&lt;/p&gt;
+&lt;p&gt;Adult learners will find value in studying Principle 2, because it helps to explain how the Earth changes. This principle can help learners understand the interconnectedness of Earth’s systems. View the &lt;a href="https://www.youtube.com/watch?v=4lrKZDaIFo0" target="_blank"&gt;Energy Literacy Essential Principle #2&lt;/a&gt; video from the U.S. Department of Energy and American Geosciences Institute for an overview of the Principle, its elements, and examples.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1435783016</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="448">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Fundamental concepts</title>
+        <content>&lt;h1&gt;Principle 2’s Fundamental Concepts&lt;/h1&gt;
+&lt;p&gt;The Fundamental Concepts of Principle 2 are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2.1  Earth is constantly changing as &lt;span class="nolink"&gt;energy flows&lt;/span&gt; through the system.&lt;/strong&gt; Geologic, fossil, and ice records provide evidence of significant changes throughout Earth’s history. These changes are always associated with changes in the flow of energy through the Earth system. Both living and non-living processes have contributed to this change.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2.2  Sunlight, gravitational potential, decay of radioactive isotopes, and rotation of the Earth are the major sources of energy driving physical processes on Earth&lt;/strong&gt;. Sunlight is a source external to Earth, while radioactive &lt;span class="nolink"&gt;isotopes&lt;/span&gt; and gravitational potential, with the exception of tidal energy, are internal. Radioactive &lt;span class="nolink"&gt;isotopes&lt;/span&gt; and gravity work together to produce geothermal energy beneath Earth’s surface. Earth’s rotation influences global flow of air and water.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2.3  Earth’s weather and climate are mostly driven by energy from the Sun&lt;/strong&gt;. For example, unequal warming of Earth’s surface and atmosphere by the Sun drives convection within the atmosphere, producing winds and influencing ocean currents.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2.4  Water plays a major role in the storage and transfer of energy in the Earth system&lt;/strong&gt;. The major role water plays is a result of water’s prevalence, high heat capacity, and the fact that phase changes of water occur regularly on Earth. The Sun provides the energy that drives the water cycle on Earth.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2.5  Movement of matter between reservoirs is driven by Earth’s internal and external sources of energy&lt;/strong&gt;. These movements are often accompanied by a change in the physical and chemical properties of the matter. Carbon, for example, occurs in carbonate rocks such as limestone, in the atmosphere as carbon dioxide gas, in water as dissolved carbon dioxide, and in all organisms as complex molecules that control the chemistry of life. Energy drives the flow of carbon between these different reservoirs.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2.6  Greenhouse gases affect energy flow through the Earth system&lt;/strong&gt;. Greenhouse gases in the atmosphere, such as carbon dioxide and water vapor, are transparent to much of the incoming sunlight but not to the infrared light from the warmed surface of Earth. These gases play a major role in determining average global surface temperatures. When Earth emits the same amount of energy as it absorbs, its average temperature remains stable.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2.7  The effects of changes in Earth’s energy system are often not immediately apparent&lt;/strong&gt;. Responses to changes in Earth’s energy system, input versus output, are often only noticeable over the course of months, years, or even decades.&lt;/li&gt;
+&lt;/ul&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434544892</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="449">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Strategies for Teaching Principle 2</title>
+        <content>&lt;h1 class="Subhead"&gt;Strategies for Teaching Principle 2&lt;/h1&gt;
+&lt;p&gt;This principle can be taught in tandem with lessons on Earth’s physical processes such as the &lt;a href="http://pmm.nasa.gov/education/water-cycle" target="_blank"&gt;water cycle&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;One strategy for teaching Principle 2 is to illustrate the processes by assigning learners a role and having them act out the processes that are the subject of the lesson. For example, in a lesson on converting potential energy of stored water or elevated weight at high elevation into kinetic energy, learners can act out the process of falling water/object to rotate a wheel to give electrical energy.&lt;/p&gt;
+&lt;p&gt;Another idea is to model a concept map the first time you teach a physical process. Then have learners draw their own concept maps in the future. There are several online resources for teaching with concept maps, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://serc.carleton.edu/introgeo/assessment/conceptmaps.html" target="_blank"&gt;Starting Point: Teaching Entry Level Geoscience&lt;br /&gt;&lt;br /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://serc.carleton.edu/NAGTWorkshops/assess/conceptmaps.html" target="_blank"&gt;Understanding What Our Geoscience Students Are Learning: Observing and Assessing&lt;br /&gt;&lt;br /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All learners, especially those living in geographic areas prone to earthquakes (such as the West Coast of the U.S.), may find it useful to conceptualize the release of Earth’s energy through their personal experiences with earthquakes. The U.S. Geological Survey’s &lt;a href="http://earthquake.usgs.gov/earthquakes/map/" target="_blank"&gt;Earthquake map&lt;/a&gt; is constantly updated and shows U.S. earthquakes within the past 30 days.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/EarthquakeMonitoring.jpg" width="442" height="331" alt="Earthquake-monitoring system at the U.S. Geological Survey (USGS)." /&gt;&lt;/p&gt;
+&lt;p class="Graphic"&gt;&lt;span style="font-size: x-small;"&gt;This simple earthquake-monitoring system operates on solar power. (Photo by Schott Applied Power Corp. Source: &lt;a href="http://images.nrel.gov" target="_blank"&gt;http://images.nrel.gov&lt;/a&gt;.)&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434462682</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="450">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>The Theme of Water</title>
+        <content>&lt;h1 class="Bullet"&gt;&lt;b&gt;The Theme of Water&lt;/b&gt;&lt;/h1&gt;
+&lt;p class="Bullet"&gt;Essential for life, and a tangible presence in our lives, water is a topic that can be taught thematically throughout an energy unit, with relevant Fundamental Concepts in Principles 2, 3, and 4. Because of the complex geopolitical issues surrounding water access and use, it is also a topic that can be explored further in Principles 5, 6, and 7.&lt;/p&gt;
+&lt;p&gt;Water is in continuous movement above and below the surface of the earth. Because of the water cycle, the water you drink today is the same water the dinosaurs swam in and drank over 65 million years ago.   &lt;/p&gt;
+&lt;p class="Bullet"&gt;In Principle 2, the water cycle plays an important role in regulating the earth’s temperature. Climate and agricultural practices are key important players in the use of water. To help learners understand how water is used in production, have learners:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;THINK: What other factors influence the use of water in &lt;span class="nolink"&gt;production&lt;/span&gt;?&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;ACT: In your group, rank the items based on those that use the most water in &lt;span class="nolink"&gt;production&lt;/span&gt; and those that use the least.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Another strategy is to discuss the ways we use water to harness energy. See the &lt;a href="http://energy.gov/sites/prod/files/2015/03/f20/EL2_SocStudiesGuides_AGI.pdf" target="_blank"&gt;Energy Literacy Social Studies Guide&lt;/a&gt; for Principle 2 for an activity exploring how water has shaped where humans settle. &lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434479944</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="451">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Online Resources for Teaching Principle 2</title>
+        <content>&lt;h1 class="Subhead"&gt;Online Resources for Teaching Principle 2&lt;/h1&gt;
+&lt;p&gt;The following online resources provide useful information related to Principle 2:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href="http://www.need.org/files/curriculum/guides/Energy%20Flows.pdf" target="_blank"&gt;Energy Flows curriculum guide&lt;/a&gt;, developed by the National Energy Education Development (NEED) Project, is one of many NEED Project resources that could be included in this course. The NEED Project curriculum guides support the Next Generation Science Standards and have been correlated to the Common Core State Standards as well as individual state standards. Over 100 guides are organized by grade level, topic, and subject area, providing a secondary opportunity to showcase language arts, social studies, and math lessons that incorporate energy literacy content. Visit this NEED web page &lt;a href="http://www.need.org/educators"&gt;http://www.need.org/educators&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;For additional resources on the greenhouse effect, see the &lt;a href="http://www.epa.gov/climatestudents/basics/today/index.html" target="_blank"&gt;U.S. Environmental Protection Agency Student Guide to Global Climate Change&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;For more information about the science behind this principle and a catalogue of activities searchable by level to teach this principle, visit the &lt;a href="http://cleanet.org/clean/literacy/energy2.html" target="_blank"&gt;CLEAN website&lt;/a&gt;. &lt;/li&gt;
+&lt;/ul&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434462881</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="452">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Summary of Principle 2</title>
+        <content>&lt;h1 class="Subhead"&gt;Summary of Principle 2&lt;/h1&gt;
+&lt;p&gt;Principle 2 addresses the energy that is intrinsic to the processes all around us and explains how different forms of energy are prevalent throughout the Earth.&lt;/p&gt;
+&lt;p&gt;It also addresses the evolution of the Earth's energy balance due to drastic changes in the flow of energy through the Earth over the course of geologic time. By examining changes in energy flow, learners learn how the planet has evolved and how humans are altering the balance over time by increasing concentrations of greenhouse gases in the atmosphere.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/ExaminingAPlant.jpg" width="474" height="314" alt="Researcher examining a plant." /&gt;&lt;/p&gt;
+&lt;p class="Graphic"&gt;&lt;span style="font-size: x-small;"&gt;Researchers are exploring the possibility of adjusting the carbon dioxide component of Earth's atmosphere and leveling the greenhouse gas factor. (Photo by Daniel Peck / NREL. Source: &lt;a href="http://images.nrel.gov/"&gt;http://images.nrel.gov/&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Graphic"&gt;&lt;span style="font-size: small; color: #993300;"&gt;Continue on to Principle 3: Biological processes depend on energy flow through the Earth system&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1433773626</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

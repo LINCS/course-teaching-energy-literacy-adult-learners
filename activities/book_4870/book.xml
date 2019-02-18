@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="52" moduleid="4870" modulename="book" contextid="14177">
+  <book id="52">
+    <name>Course Introduction</name>
+    <intro>&lt;p&gt;intro and welcome&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1433368253</timecreated>
+    <timemodified>1433368523</timemodified>
+    <chapters>
+      <chapter id="430">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Introduction</title>
+        <content>&lt;h1 class="Subhead"&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Welcome to &lt;i&gt;Teaching Energy Literacy to Adult Learners&lt;/i&gt;. This course explains the concept of energy literacy, and introduces the &lt;a href="http://energy.gov/eere/education/energy-literacy-essential-principles-and-fundamental-concepts-energy-education%20"&gt;Energy Literacy Framework&lt;/a&gt; developed by the U.S. Department of Energy. Educators can use the Framework (available in English and &lt;a href="http://energy.gov/eere/education/downloads/conocimiento-de-energia"&gt;Spanish&lt;/a&gt;) to teach adult learners about the role of energy in their lives and to generate potential interest in energy as a career field. This course explores the Fundamental Concepts of the seven essential principles outlined in the Energy Literacy Framework and provides examples of online resources teachers can use to teach the principles and associated concepts to adult learners.&lt;/p&gt;
+&lt;p&gt;After completing this course, you will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;define energy literacy&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;identify the Energy Literacy Framework’s seven Essential Principles and Fundamental Concepts&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;employ strategies for teaching the seven principles to adult learners&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;use online resources to guide adult learners in exploring the Fundamental Concepts of each of the seven principles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A Glossary of key terms used in this course is included at the end of the course. You may want to print it to use as a reference while you take the course.&lt;/p&gt;
+&lt;p&gt;Please allow approximately two (2) hours to complete this course. However, you are free to leave the session at any time. When you exit the courseware, a bookmark is automatically placed at your last location to allow you to pick up where you left off when you return.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434459441</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="431">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Importance of Energy as a Topic for Adult Learners</title>
+        <content>&lt;h1 class="Subhead"&gt;Importance of Energy as a Topic for Adult Learners&lt;/h1&gt;
+&lt;p&gt;Science provides an authentic context through which adult basic education (ABE) teachers can examine the societal dimensions of scientific issues, including political, economic, and ethical considerations, while teaching academic skills (reading, writing, mathematics) and employability skills (e.g., “critical thinking, adaptability, problem solving, oral and written communications, collaboration and teamwork, creativity, responsibility, professionalism, ethics, and technology usage”) (ACTE,  2013).&lt;/p&gt;
+&lt;p&gt;Energy is a topic of growing importance for adult learners for three key reasons.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First, energy is in our lives, from our transportation of goods to creation of jobs and reading and paying our energy bills. It helps us formulate and make informed decisions about our home, lifestyle, and environment. It also helps our communities make good decisions about long-lived energy assets, such as city planners situating power plants and transmission lines.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Second, energy is a foundational science topic. Learning about energy helps learners build their knowledge of important scientific processes, and gain content knowledge that can contribute to success in earning a high school equivalency or the ability to assist children with their homework.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Third, the energy sector is a growing career field that may be attractive to adult learners. There are multiple career pathways in the sector already, with more being developed as the technology evolves. Becoming energy literate could generate interest in a career in the energy sector. Learners with a foundational knowledge of energy literacy may also be better prepared to succeed in a career pathways or training program in this career area.&lt;/li&gt;
+&lt;/ol&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434459629</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="432">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Course Goals</title>
+        <content>&lt;h1 class="Subhead"&gt;Course Goals&lt;/h1&gt;
+&lt;p&gt;Adult educators should consider instruction that aims to help adult learners become literate in energy topics to better prepare them for a range of science, technology, engineering and math (STEM) career options. This course aims to provide adult educators with opportunities to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;increase content knowledge of energy literacy and principles&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;become familiar with high-quality energy literacy classroom materials and strategies appropriate for use with adult learners&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The ultimate goal is that, upon completion of this course, participants have the knowledge, resources, and strategies to teach energy topics in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;adult basic education classrooms&lt;/b&gt;, particularly science or social studies classrooms&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;career pathways programs&lt;/b&gt;, especially clean energy jobs programs or other programs that prepare learners for work in energy related fields&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;work-based environments&lt;/b&gt;&lt;i&gt;,&lt;/i&gt; to provide incumbent workers with training opportunities to increase their knowledge and understanding for their current positions and to upskill for positions further along their career pathway &lt;/li&gt;
+&lt;/ul&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434459812</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="433">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Join the LINCS Community and Participate in Course Discussions</title>
+        <content>&lt;h1 class="Subhead"&gt;Join the LINCS Community and Participate in Course Discussions&lt;/h1&gt;
+&lt;p&gt;This course is designed for teachers of adult learners. As with all LINCS courses, this course includes opportunities to connect with other adult education practitioners interested in teaching energy literacy content. If you haven’t already done so, take a moment to register as a member of the &lt;a href="https://community.lincs.ed.gov/"&gt;LINCS Community&lt;/a&gt; and participate in the discussions embedded throughout this course. The discussions provide an open forum to share your thoughts, ideas, and questions with other adult education practitioners.&lt;/p&gt;
+&lt;p&gt;Throughout this course, you will have the opportunity to share your stories and insights as you learn about teaching energy literacy in adult education classrooms. This is a great opportunity to share and learn from others. We encourage you to participate!&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;Continue on to Using the Energy Literacy Framework&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img width="580" height="510" alt="Screen shot of the LINCS Community landing page from the LINCS website" src="@@PLUGINFILE@@/cop%20screenshot.jpg" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434025638</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="59" moduleid="4877" modulename="book" contextid="14184">
+  <book id="59">
+    <name>Principle 6: The amount of energy used by human society depends on many factors</name>
+    <intro>&lt;p&gt;principle 6&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1433783961</timecreated>
+    <timemodified>1433783961</timemodified>
+    <chapters>
+      <chapter id="471">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Principle 6: The amount of energy used by human society depends on many factors</title>
+        <content>&lt;h1 class="Subhead"&gt;Principle 6: The amount of energy used by human society depends on many factors&lt;/h1&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/icon_p6.jpg" width="150" height="150" alt="Icon of a simple graph to represent Principle 6 of the Energy Literacy Framework." style="float: right; margin-left: 20px; margin-right: 20px;" /&gt;&lt;/p&gt;
+&lt;p&gt;This principle explores our energy consumption, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the role of conservation&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;human demand for energy&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;the limited nature of energy resources&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;the impact of innovations on energy use&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The principle further explores how energy use is impacted by behavior and design, &lt;br /&gt;how products and services require energy over their life span, and that energy use &lt;br /&gt;can be calculated and monitored. Principle 6 may be of particular interest to educators teaching in green jobs career pathways programs. It may also be particularly relevant to non-engineers and non-scientists, as these are the non-technical factors—markets, economics, etc.—that drive the energy system.&lt;/p&gt;
+&lt;p&gt;Use Principle 6’s Fundamental Concepts on the next page to build your understanding of the concepts and information included in each principle. You can use the Fundamental Concepts to inform your instruction related to this principle.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434468293</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="472">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Principle 6’s Fundamental Concepts</title>
+        <content>&lt;h1&gt;Principle 6’s Fundamental Concepts&lt;/h1&gt;
+&lt;p&gt;The Fundamental Concepts of Principle 6 are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;6.1  &lt;span class="nolink"&gt;Conservation&lt;/span&gt; of energy has two very different meanings&lt;/strong&gt;. There is the physical law of conservation of energy. This law says that the total amount of energy in the universe is constant. Conserving energy is also commonly used to mean the decreased societal consumption of energy resources. When speaking of people conserving energy, this second meaning is always intended.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;6.2  One way to manage energy resources is through &lt;span class="nolink"&gt;conservation&lt;/span&gt;&lt;/strong&gt;. &lt;span class="nolink"&gt;Conservation&lt;/span&gt; includes reducing wasteful energy use, using energy for a given purpose more efficiently, making strategic choices as to sources of energy, and reducing energy use altogether.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;6.3  Human demand for energy is increasing&lt;/strong&gt;. Population growth, industrialization, and socioeconomic development result in increased demand for energy. Societies have choices with regard to how they respond to this increase. Each of these choices has consequences.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;6.4  Earth has limited energy resources&lt;/strong&gt;. Increasing human energy &lt;span class="nolink"&gt;consumption&lt;/span&gt; places stress on the natural processes that renew some energy resources, and it depletes those that cannot be renewed.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;6.5  Social and technological innovation affects the amount of energy used by human society&lt;/strong&gt;. The amount of energy society uses per capita or in total can decrease. This can happen as a result of technological or social innovation and change. Decreased use of energy does not necessarily equate to decreased quality of life. In many cases it will be associated with improved quality of life in the form of increased economic and national security, reduced environmental risks, and monetary savings.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;6.6  Behavior and design affect the amount of energy used by human society&lt;/strong&gt;. There are actions individuals and society can take to conserve energy. These actions might come in the form of changes in behavior or in changes to the design of technology and infrastructure. Some of these actions have more impact than others.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;6.7  Products and services carry with them embedded energy&lt;/strong&gt;. The energy needed for the entire lifecycle of a product or service is called the “embedded” or “embodied” energy. An accounting of the embedded energy in a product or service, along with knowledge of the source(s) of the energy, is essential when calculating the amount of energy used and in assessing impacts and consequences.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;&lt;strong&gt;6.8  The amount of energy used can be calculated and monitored&lt;/strong&gt;. An individual, organization, or government can monitor, measure, and control energy use in many ways. Understanding utility costs, knowing where consumer goods and food come from, and understanding energy efficiency as it relates to home, work, and transportation are essential to this process.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434544077</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="473">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Strategies for Incorporating Energy Consumption Topics into Adult Education</title>
+        <content>&lt;h1 class="Subhead"&gt;Strategies for Incorporating Energy &lt;span class="nolink"&gt;Consumption&lt;/span&gt; Topics into Adult Education&lt;/h1&gt;
+&lt;p&gt;This principle focuses on energy consumption. Strategies for teaching this principle often extend classroom learning to the learners’ daily lives and decisions. Here are a few ideas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Consider beginning the lesson by discussing learners’ individual habits related to energy &lt;span class="nolink"&gt;consumption&lt;/span&gt;. First, have them brainstorm where energy &lt;span class="nolink"&gt;consumption&lt;/span&gt; happens in their lives, such as: transportation, technology, home heating or cooling systems, or use of water. Next, have learners think through their energy habits. For example, do they drive to the neighborhood store, or do they ride a bike or walk? Do they run their air conditioner or use a fan?   &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;To discuss how energy is consumed on a national basis, such as calculating amounts of energy used or saved, consider using some of the &lt;a href="http://cleanet.org/clean/educational_resources/index.html?q1=sercvocabs__199%3A28" target="_blank"&gt;sample lessons&lt;/a&gt; provided by CLEAN.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Have learners review this &lt;a href="http://energy.gov/eere/femp/home-energy-checklist"&gt;home energy checklist&lt;/a&gt; from the U.S. Department of Energy that offers ways to conserve energy at home. Have learners compare and contrast what activities they currently do and what activities they could do in the future. Expand the lesson by having learners identify new vocabulary words they have learned from the checklist.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;For adult English language learners, the U.S. Environmental Protection Agency developed the &lt;a href="http://www.epa.gov/osw/education/pdfs/tesol.pdf" target="_blank"&gt;Teach English, Teach about the Environment&lt;/a&gt; curriculum. The curriculum teaches English language skills alongside concepts related to the environment, including reducing, reusing, and recycling. There are lessons plans at the beginner, intermediate, and advanced English levels. For additional reading, visit the EPA website on the &lt;a href="http://waste.supportportal.com/link/portal/23002/23023/Article/19159/Is-recycling-worthwhile?_ga=1.59949101.1849493947.1427483431"&gt;history of recycling&lt;/a&gt;. Note that the Energy Literacy Framework is also available in &lt;a href="http://energy.gov/sites/prod/files/2014/06/f16/conocimiento_vS2.2_low_res.pdf" target="_blank"&gt;Spanish&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Offer a kinesthetic learning experience by having the learners create a human spectrum that outlines their energy&lt;span class="nolink"&gt; &lt;span style="line-height: 1.231;"&gt;consumption &lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 1.231;"&gt;&lt;/span&gt;&lt;span style="line-height: 1.231;"&gt;points of view. At one end of the room, put up a sign that says “Strongly Agree”, and at other end “Strongly Disagree.” Between these points, mark “Agree, Neutral, Disagree.” Have learners respond to a question or statement and physically walk to the location that represents their viewpoint. Learners can consider any visible outliers, grouping, or scattering based on the statement/question. Sample questions can include:&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li style="list-style-type: none;"&gt;
+&lt;ul&gt;
+&lt;li&gt;Should the U.S. open up more land to find fossil fuels to power our communities?&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Should the U.S. buy less foreign oil?&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Should the U.S. subsidize the cost of renewable energy technology to businesses?&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Should the U.S. build new &lt;span class="nolink"&gt;nuclear&lt;/span&gt; energy plants?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h4&gt;Learn More About It&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;p&gt;Explore &lt;a href="http://www.ctenergyeducation.com/lessons.htm?cat=qwv6u0ax" target="_blank"&gt;Connecticut Energy Education&lt;/a&gt;, a website featuring free lessons on energy efficiency. Free registration is required. This website is sponsored by the Connecticut Energy &lt;span class="nolink"&gt;Conservation&lt;/span&gt; Fund.&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434544434</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="474">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Online Resources for Teaching Principle 6</title>
+        <content>&lt;h1 class="Subhead"&gt;Online Resources for Teaching Principle 6&lt;/h1&gt;
+&lt;p&gt;Spend some time using a search engine to find online resources related to this principle to support instruction. Here are a few examples to get you started:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href="https://www.youtube.com/watch?v=NSbt15lQiGE" target="_blank"&gt;Energy Literacy Essential Principle #6&lt;/a&gt; video, from the U.S. Department of Energy and American Geoscience Institute, provides an overview of the principle, its concepts, and examples.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.climategen.org/what-we-do/education/climate-change-and-energy-cirricula/curriculum-guides/experience-energy-for-grades-3-8/" target="_blank"&gt;Experience Energy&lt;/a&gt;, a science unit developed by the Will Steger Foundation, includes lessons and supplemental materials on consumption, conservation, and efficient uses of energy. This curriculum, revised in 2014, is aligned to the Minnesota State Science Standards, the Energy Literacy Framework principles, and the Next Generation Science Standards. &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;The Will Steger Foundation has also developed other resources, such as Our Changing Climate, which is a series of five interdisciplinary lesson plans designed to help learners master the background information on global climate change processes. The series is available at two academic levels, &lt;a href="http://www.climategen.org/what-we-do/education/climate-change-and-energy-cirricula/curriculum-guides/our-changing-climate-for-grades-3-6/" target="_blank"&gt;grades 3-6&lt;/a&gt; and &lt;a href="http://www.climategen.org/what-we-do/education/climate-change-and-energy-cirricula/curriculum-guides/our-changing-climate-for-grades-6-12/" target="_blank"&gt;grades 6-12&lt;/a&gt;. Adult education instructors can use the level that best corresponds to their learners' skills.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;To explore how production of goods impacts our clothing, show this five part video from National Public Radio that traces the &lt;a href="http://apps.npr.org/tshirt/#/title"&gt;life of a t-shirt&lt;/a&gt;. Ask learners to consider the life of other everyday products like shoes, hats or even wrist watches.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;a href="http://energy.gov/sites/prod/files/2015/03/f20/EL6_SocStudiesGuides_AGI.pdf" target="_blank"&gt;Energy Literacy Social Studies Guides&lt;/a&gt; for Principle 6 help learners consider their needs, wants, and common possessions. The activities and discussions will help learners rethink the “demand” for energy in a technological world.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;CLEAN’s lesson &lt;a href="http://cleanet.org/resources/41841.html"&gt;Are you an Energy Efficient Consumer?&lt;/a&gt; helps learners examine night light level data to examine how different countries and regions around the world use energy over time.&lt;/li&gt;
+&lt;/ul&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1435857913</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="475">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Summary of Principle 6</title>
+        <content>&lt;h1 class="Subhead"&gt;Summary of Principle 6&lt;/h1&gt;
+&lt;p&gt;Principle 6 addresses the use of energy and factors that affect how much energy humans use. With the demand for energy increasing, it is important to help learners understand the ways in which energy use is embedded throughout our society. This is one way of helping them become energy literate and may motivate learners to take personal action to reduce energy use.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/HVAC_unit.jpg" width="316" height="476" alt="Photo of a geothermal heat pump unit." /&gt;&lt;/p&gt;
+&lt;p class="Graphic"&gt;&lt;span style="font-size: x-small;"&gt;A 1.4 ton geothermal heat pump unit, part of the geothermal heat pump system at Cavett Elementary School in Lincoln, Nebraska, saves money and energy on heating and cooling with geothermal heat pump technology. (Photo by Ann S. Lundy. Source: &lt;a href="http://images.nrel.gov/"&gt;http://images.nrel.gov/&lt;/a&gt;.) &lt;/span&gt;&lt;/p&gt;
+&lt;p class="Graphic"&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small; color: #993300;"&gt;Continue on to Principle 7: The quality of life of individuals and societies is affected by energy choices&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434029505</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

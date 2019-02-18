@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="81" moduleid="4880" modulename="certificate" contextid="14187">
+  <certificate id="81">
+    <name>Energy Literacy Certificate</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <emailteachers>0</emailteachers>
+    <emailothers></emailothers>
+    <savecert>1</savecert>
+    <reportcert>0</reportcert>
+    <delivery>0</delivery>
+    <certificatetype>lincs</certificatetype>
+    <orientation>L</orientation>
+    <borderstyle>0</borderstyle>
+    <bordercolor>0</bordercolor>
+    <printwmark>0</printwmark>
+    <printdate>1</printdate>
+    <datefmt>2</datefmt>
+    <printnumber>1</printnumber>
+    <printgrade>0</printgrade>
+    <gradefmt>1</gradefmt>
+    <printoutcome>0</printoutcome>
+    <printhours>2</printhours>
+    <printteacher>0</printteacher>
+    <customtext></customtext>
+    <printsignature>Cheryl-Keenan.png</printsignature>
+    <printseal>LINCS-Logo-Color-small.png</printseal>
+    <timecreated>1438809421</timecreated>
+    <timemodified>1441551687</timemodified>
+    <issues>
+    </issues>
+  </certificate>
+</activity>

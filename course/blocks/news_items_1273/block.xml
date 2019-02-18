@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="1273" contextid="14174" version="2013110501">
+  <blockname>news_items</blockname>
+  <parentcontextid>14168</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>course-view-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-post</defaultregion>
+  <defaultweight>1</defaultweight>
+  <configdata></configdata>
+  <block_positions>
+  </block_positions>
+</block>

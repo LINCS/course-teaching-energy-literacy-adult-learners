@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="127" contextid="14168">
+  <shortname>Energy Literacy</shortname>
+  <fullname>Teaching Energy Literacy to Adult Learners</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p&gt;This course explains the concept of energy literacy, and introduces the Energy Literacy Framework developed by the U.S. Department of Energy. Educators can use the Framework (available in English and Spanish) to teach adult learners about the role of energy in their lives and to generate potential interest in energy as a career field. This course explores the Fundamental Concepts of the seven essential principles outlined in the Energy Literacy Framework and provides examples of online resources teachers can use to teach the principles and associated concepts to adult learners.&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>0</showgrades>
+  <newsitems>0</newsitems>
+  <startdate>1438833600</startdate>
+  <marker>0</marker>
+  <maxbytes>52428800</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en_us</lang>
+  <theme>lincs</theme>
+  <timecreated>1431637936</timecreated>
+  <timemodified>1438950666</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>10</numsections>
+  <hiddensections>0</hiddensections>
+  <coursedisplay>0</coursedisplay>
+  <displayinstructions>2</displayinstructions>
+  <layoutelement>5</layoutelement>
+  <layoutstructure>1</layoutstructure>
+  <layoutcolumns>1</layoutcolumns>
+  <layoutcolumnorientation>2</layoutcolumnorientation>
+  <togglealignment>1</togglealignment>
+  <toggleiconposition>1</toggleiconposition>
+  <toggleiconset>arrow</toggleiconset>
+  <toggleallhover>2</toggleallhover>
+  <toggleforegroundcolour>000000</toggleforegroundcolour>
+  <togglebackgroundcolour>e2e2f2</togglebackgroundcolour>
+  <togglebackgroundhovercolour>eeeeff</togglebackgroundhovercolour>
+  <category id="4">
+    <name>Science </name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+</course>

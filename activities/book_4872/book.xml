@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="54" moduleid="4872" modulename="book" contextid="14179">
+  <book id="54">
+    <name>Principle 1: Energy is a physical quantity that follows precise natural laws</name>
+    <intro>&lt;p&gt;principle 1&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <customtitles>1</customtitles>
+    <timecreated>1433691824</timecreated>
+    <timemodified>1433699521</timemodified>
+    <chapters>
+      <chapter id="441">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Principle 1: Energy is a physical quantity that follows precise natural laws</title>
+        <content>&lt;h1&gt;Principle 1: Energy is a physical quantity that follows precise natural laws.&lt;/h1&gt;
+&lt;p&gt;&lt;img width="150" height="150" style="float: right; margin-left: 20px; margin-right: 20px;" alt="Iconic image for principle 1, represented by an atom" src="@@PLUGINFILE@@/icon_p1.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="nolink"&gt;Natural laws&lt;/span&gt; create some useful opportunities, such as the ability to convert one form of energy to another. They also impose certain tradeoffs, such as losses that cannot be avoided. These losses, which often show up as waste heat or emissions, are one reason for environmental impacts.&lt;/p&gt;
+&lt;p&gt;Use Principle 1’s Fundamental Concepts on the next page to build your understanding of the concepts and information included in each principle. You can use the Fundamental Concepts to inform your instruction related to this principle.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434478895</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="442">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Principle 1’s Fundamental Concepts</title>
+        <content>&lt;h1&gt;Principle 1’s Fundamental Concepts&lt;/h1&gt;
+&lt;p&gt;The Fundamental Concepts of Principle 1 are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1.1&lt;/strong&gt;  &lt;strong&gt;Energy is a quantity that is transferred from system to system&lt;/strong&gt;. Energy is the ability of a system to do work. A system has done work if it has exerted a force on another system over some distance. When this happens, energy is transferred from one system to another. At least some of the energy is also transformed from one type to another during this process. One can keep track of how much energy transfers into or out of a system.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1.2&lt;/strong&gt;  &lt;strong&gt;The energy of a system or object that results in its temperature is called thermal energy&lt;/strong&gt;. When there is a net transfer of energy from one system to another, due to a difference in temperature, the energy transferred is called heat. Heat transfer happens in three ways: convection, conduction, and radiation. Like all energy transfer, heat transfer involves forces exerted over a distance at some level as systems interact.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1.3&lt;/strong&gt;  &lt;strong&gt;Energy is neither created nor destroyed&lt;/strong&gt;. The change in the total amount of energy in a system is always equal to the difference between the amount of energy transferred in and the amount transferred out. The total amount of energy in the universe is finite and constant.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1.4&lt;/strong&gt;  &lt;strong&gt;Energy available to do useful work decreases as it is transferred from system to system&lt;/strong&gt;. During all transfers of energy between two systems, some energy is lost to the surroundings. In a practical sense, this lost energy has been “used up,” even though it is still around somewhere. A more efficient system will lose less energy, up to a theoretical limit.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1.5&lt;/strong&gt;  &lt;strong&gt;Energy comes in different forms and can be divided into categories&lt;/strong&gt;. Forms of energy include light energy, elastic energy, chemical energy, and more. There are two categories that all energy falls into: kinetic and potential. Kinetic describes types of energy associated with motion. Potential describes energy possessed by an object or system due to its position relative to another object or system and forces between the two. Some forms of energy are part kinetic and part potential energy.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1.6&lt;/strong&gt; &lt;strong&gt; Chemical and &lt;span class="nolink"&gt;nuclear&lt;/span&gt; reactions involve the transfer and transformation of energy&lt;/strong&gt;. The energy associated with nuclear reactions is much larger than that associated with chemical reactions for a given amount of mass. &lt;span class="nolink"&gt;Nuclear&lt;/span&gt; reactions take place at the centers of stars, in &lt;span class="nolink"&gt;nuclear&lt;/span&gt; bombs, and in both fission- and fusion-based &lt;span class="nolink"&gt;nuclear&lt;/span&gt; reactors. Chemical reactions are pervasive in both living and non-living Earth systems.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1.7  Many different units are used to quantify energy&lt;/strong&gt;. As with other physical quantities, many different units are associated with energy. For example, joules, calories, ergs, kilowatt-hours, and BTUs are all units of energy. Given a quantity of energy in one set of units, one can always convert it to another (e.g., 1 calorie = 4.186 joules).&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1.8&lt;/strong&gt; &lt;strong&gt; Power is a measure of energy transfer rate&lt;/strong&gt;. It is useful to talk about the rate at which energy is transferred from one system to another (energy per time). This rate is called power. One joule of energy transferred in one second is called a Watt (i.e., 1 joule/second = 1 Watt).&lt;/li&gt;
+&lt;/ul&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434479155</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="443">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Strategies for Teaching Principle 1</title>
+        <content>&lt;h1 class="Subhead"&gt;Strategies for Teaching Principle 1&lt;/h1&gt;
+&lt;p&gt;There are several online videos related to Principle 1 that learners can view, either before or during class. These include the following videos from the U.S. Department of Energy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The video &lt;a href="https://www.youtube.com/watch?v=mvOTaytRPmE"&gt;Energy Literacy Essential Principle #1&lt;/a&gt; provides an illustrative overview of the principle.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;a href="https://www.youtube.com/playlist?list=PLACD8E92715335CB2"&gt;Energy 101 &lt;/a&gt;video series includes several videos on energy fundamentals that may be useful in enhancing learners’ background knowledge on specific topics, including different fuels (such as oil, gas, coal, geothermal energy, hydropower, and solar power) and sectors (transportation, electricity, etc.). These videos may also stimulate their interest and build their knowledge in topics relevant to energy careers, such as maintaining wind turbines, conducting home energy assessments, and constructing energy &lt;span class="nolink"&gt;efficient&lt;/span&gt; buildings.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use the videos above as introductions to energy concepts and vocabulary. Discuss new ideas as a group as needed. Then, provide learners with an informational text that echoes and builds upon the content in the videos and is reflective of the Fundamental Concepts.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="546" height="371" style="width: 457px; height: 295px;" alt="Photo of the Ice Harbor Dam." src="@@PLUGINFILE@@/IceHarborDam.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Ice Harbor Dam in Burbank, Washington. Hydropower produces 10% of the nation’s energy. (Photo by US Army Corps of Engineers. Source: &lt;a href="http://images.nrel.gov/"&gt;http://images.nrel.gov/&lt;/a&gt;)&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434479248</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="444">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Example Strategy</title>
+        <content>&lt;h1 class="Subhead"&gt;Example Strategy&lt;/h1&gt;
+&lt;p&gt;One way to use informational text to build upon the concepts in an online video is to have learners read an introductory text on a website or by printing it, such as the &lt;a href="http://www.eia.gov/kids/energy.cfm?page=about_forms_of_energy-basics"&gt;U.S. Energy Information Administration’s Forms of Energy Basics&lt;/a&gt; webpage. Then, have learners ask and answer questions, including who, what, where, when, why, and how, about key details in the text. During this discussion, model behavior that learners should emulate by explicitly referencing details, examples, and quotes from the text.&lt;/p&gt;
+&lt;p&gt;Once learners have demonstrated understanding of the text, lead a discussion or develop an activity to help learners make inferences from the text. Learners can build on the knowledge and vocabulary gained in the first text and initial activities to read and understand a more advanced, complex text. Doing so will allow you to develop activities or writing assignments that will require learners to make inferences, cite evidence in the text, and apply and analyze information.&lt;/p&gt;
+&lt;p&gt;For example, to teach the concept of nuclear energy - a powerful form of energy that demonstrates the reactions and transfers involved in energy - you can employ this strategy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduce &lt;span class="nolink"&gt;nuclear&lt;/span&gt; energy with this &lt;a href="https://www.youtube.com/watch?v=OVBsYhTLL54"&gt;introductory video&lt;/a&gt; to begin to discuss the essential question, “Is &lt;span class="nolink"&gt;Nuclear&lt;/span&gt; Energy a non-renewable or renewable resource?”&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Learners explore this online interactive &lt;a href="http://www.nrc.gov/reading-rm/basic-ref/students.html"&gt;website&lt;/a&gt; explaining &lt;span class="nolink"&gt;nuclear&lt;/span&gt; energy.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Learners discuss the initial question and explore the advantages and disadvantages of using &lt;span class="nolink"&gt;nuclear&lt;/span&gt; power.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Ask learners to present their arguments for or against using &lt;span class="nolink"&gt;nuclear&lt;/span&gt; energy. Learners should include at least one discussion question for the class after their presentation.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;For additional reading, see the &lt;a href="http://energy.gov/sites/prod/files/2015/03/f20/EL1_SocStudiesGuides_AGI.pdf"&gt;Social Studies Guide for Principle 1&lt;/a&gt; which includes other suggested readings for &lt;span class="nolink"&gt;nuclear&lt;/span&gt; power.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This structure can be repeated with each principle. This strategy provides learners with supports to read and understand increasingly complex informational text. This strategy aligns with &lt;strong&gt;CCR ELA Reading Anchor Standard 1:&lt;/strong&gt; &lt;em&gt;Read closely to determine what the text says explicitly and to make logical inferences from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text&lt;/em&gt; (Pimentel, 2013, p. 14).&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img width="680" height="547" style="width: 486px; height: 366px;" alt="Sacramento Municipal Utility District's (SMUD) photovoltaic array with nuclear cooling towers in the background." src="@@PLUGINFILE@@/PhotovoltaicArrayNuclearTowers.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;The Sacramento Municipal Utility District operates this 2-MW PV power plant at Rancho Seco, California. (Photo by Warren Gretz / NREL. Source: &lt;a href="http://images.nrel.gov/"&gt;http://images.nrel.gov/&lt;/a&gt;.)&lt;/span&gt;&lt;/p&gt;
+&lt;div class="graybox" style="margin-bottom: 30px; margin-top: 30px;"&gt;
+&lt;h4&gt;Learn More About it&lt;/h4&gt;
+&lt;h5&gt;Inferences&lt;/h5&gt;
+&lt;p&gt;If the concept of inferences is new to your learners, it may be helpful to conduct a quick mini-lesson on the topic to clarify what it is. Ideas for doing so include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Make a connection to the physical – Make a scared face and ask learners to infer what you are feeling. Explain that just as your class “read” your facial expression and came to a conclusion based on what they saw, making inferences is about “reading into” a text and making a guess, based on the evidence they read. &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Use overhead transparencies, a white board, or a smart board to share a passage with the class. Then model the thought process of making an inference, using colored markers or highlights to indicate which words helped you come to your educated guess.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434479404</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="445">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Online Resource for Teaching Principle 1</title>
+        <content>&lt;h1 class="Subhead"&gt;Online Resource for Teaching Principle 1&lt;/h1&gt;
+&lt;p&gt;The Climate Literacy &amp;amp; Energy Awareness Network (CLEAN) has a dedicated web page for each energy principle that provides:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;an overview of the content&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;rationale for why the principle is important&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;common challenges in teaching this principle&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;strategies for teaching this principle&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;a resource bank of teaching activities relevant to this principle&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The teaching activities are searchable by general grade level. Explore &lt;a href="http://cleanet.org/clean/literacy/energy1.html"&gt;Principle 1’s page&lt;/a&gt;.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434461695</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="446">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Summary</title>
+        <content>&lt;h1 class="Subhead"&gt;Summary of Principle 1&lt;/h1&gt;
+&lt;p&gt;Principle 1 introduces the basic concepts required in a unit on energy, especially the concept that energy can have many forms, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mechanical energy (which includes kinetic energy and elastic energy)&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Thermal energy&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Radiant energy (which includes light energy)&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Chemical energy&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Nuclear energy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class="Bullet"&gt;This principle helps learners gain a basic understanding of energy and its forms. It also introduces them to relevant vocabulary.&lt;/p&gt;
+&lt;p class="Bullet"&gt; &lt;/p&gt;
+&lt;p class="Bullet"&gt;&lt;img width="681" height="512" style="width: 518px; height: 353px;" alt="Thermal image of two men in front of the cab of a semi-truck." src="@@PLUGINFILE@@/ThermalTruckPhoto.jpg" /&gt;&lt;/p&gt;
+&lt;p class="Bullet"&gt;&lt;span style="font-size: x-small;"&gt;NREL engineers examine data from a thermal camera on a long haul sleeper cab to collect data on the surface temperatures produced by early morning sun. (Photo by Dennis Schroeder / NREL. Source: &lt;a href="http://images.nrel.gov/"&gt;http://images.nrel.gov/&lt;/a&gt;.)&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Bullet"&gt; &lt;/p&gt;
+&lt;p class="Bullet"&gt;&lt;span style="color: #993300;"&gt;Continue on to Principle 2: Physical processes on Earth are the result of energy flow through the Earth system&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1434027286</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>
